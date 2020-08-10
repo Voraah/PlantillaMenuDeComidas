@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "1083327554750",
+    "firebase_url": "https://learning-firebase-1-ba0f4.firebaseio.com",
+    "project_id": "learning-firebase-1-ba0f4",
+    "storage_bucket": "learning-firebase-1-ba0f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083327554750:android:f6860b22a7047644f2aaef",
+        "android_client_info": {
+          "package_name": "com.alain.cursos.menudecomidasbasic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083327554750-lvjchhiiae54vdkba7u0uc3ieesm45su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCjD93v8et7ZAecHlfXca76OnddbQgtBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083327554750-lvjchhiiae54vdkba7u0uc3ieesm45su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083327554750:android:b765378053b9a370f2aaef",
+        "android_client_info": {
+          "package_name": "com.example.firebasecourse1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083327554750-lvjchhiiae54vdkba7u0uc3ieesm45su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCjD93v8et7ZAecHlfXca76OnddbQgtBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083327554750-lvjchhiiae54vdkba7u0uc3ieesm45su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083327554750:android:97eacc755d0d5a39f2aaef",
+        "android_client_info": {
+          "package_name": "com.example.firebasecourse2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083327554750-lvjchhiiae54vdkba7u0uc3ieesm45su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCjD93v8et7ZAecHlfXca76OnddbQgtBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083327554750-lvjchhiiae54vdkba7u0uc3ieesm45su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083327554750:android:9ac3d438e7e255b7f2aaef",
+        "android_client_info": {
+          "package_name": "com.example.learningfirebase1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083327554750-lvjchhiiae54vdkba7u0uc3ieesm45su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCjD93v8et7ZAecHlfXca76OnddbQgtBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083327554750-lvjchhiiae54vdkba7u0uc3ieesm45su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Menu de comidas basic</string>
+    <string name="title_comida_detail">Comida Detail</string>
+    <string name="comida_list_dialog_title">Mi código</string>
+    <string name="comida_list_dialog_title_ok">OK</string>
+</resources>
