@@ -12,20 +12,6 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.app.ActionBar;
 import android.view.MenuItem;
 
-/* *
- * Firebase for Android
- * Created by Alain Nicolás Tello on 01/04/2020 at 01:16pm
- * All rights reserved 2020.
- * Course Specialize in Firebase for Android with MVP 2018-2020
- * More info: https://www.udemy.com/especialidad-en-firebase-para-android-con-mvp-profesional/
- */
-
-/**
- * An activity representing a single Comida detail screen. This
- * activity is only used on narrow width devices. On tablet-size devices,
- * item details are presented side-by-side with a list of items
- * in a {@link ComidaListActivity}.
- */
 public class ComidaDetailActivity extends AppCompatActivity {
 
     @Override

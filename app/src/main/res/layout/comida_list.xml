@@ -9,5 +9,5 @@
     android:layout_marginLeft="16dp"
     android:layout_marginRight="16dp"
     app:layoutManager="LinearLayoutManager"
-    tools:context="com.alain.cursos.menudecomidasbasic.marketlist.alain.cursos.menudecomidasbasic.ComidaListActivity"
+    tools:context="marketlist.rarl.cursos.menudecomidasbasic.ComidaListActivity"
     tools:listitem="@layout/comida_list_content" />

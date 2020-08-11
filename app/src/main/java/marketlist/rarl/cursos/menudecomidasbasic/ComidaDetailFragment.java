@@ -13,37 +13,12 @@ import android.widget.TextView;
 
 import marketlist.rarl.cursos.menudecomidasbasic.dummy.DummyContent;
 
-/* *
- * Firebase for Android
- * Created by Alain Nicolás Tello on 01/04/2020 at 01:16pm
- * All rights reserved 2020.
- * Course Specialize in Firebase for Android with MVP 2018-2020
- * More info: https://www.udemy.com/especialidad-en-firebase-para-android-con-mvp-profesional/
- */
-
-/**
- * A fragment representing a single Comida detail screen.
- * This fragment is either contained in a {@link ComidaListActivity}
- * in two-pane mode (on tablets) or a {@link ComidaDetailActivity}
- * on handsets.
- */
 public class ComidaDetailFragment extends Fragment {
 
-    /**
-     * The fragment argument representing the item ID that this fragment
-     * represents.
-     */
     public static final String ARG_ITEM_ID = "item_id";
 
-    /**
-     * The dummy name this fragment is presenting.
-     */
     private DummyContent.Comida mItem;
 
-    /**
-     * Mandatory empty constructor for the fragment manager to instantiate the
-     * fragment (e.g. upon screen orientation changes).
-     */
     public ComidaDetailFragment() {
     }
 
