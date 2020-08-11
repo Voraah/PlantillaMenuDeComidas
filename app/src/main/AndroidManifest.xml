@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".ComidaListActivity"
+            android:name="marketlist.rarl.cursos.menudecomidasbasic.ComidaListActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
@@ -20,13 +20,13 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".ComidaDetailActivity"
+            android:name="marketlist.rarl.cursos.menudecomidasbasic.ComidaDetailActivity"
             android:label="@string/title_comida_detail"
-            android:parentActivityName=".ComidaListActivity"
+            android:parentActivityName="marketlist.rarl.cursos.menudecomidasbasic.ComidaListActivity"
             android:theme="@style/AppTheme.NoActionBar">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.alain.cursos.menudecomidasbasic.ComidaListActivity" />
+                android:value="com.alain.cursos.menudecomidasbasic.marketlist.alain.cursos.menudecomidasbasic.ComidaListActivity" />
         </activity>
     </application>
 

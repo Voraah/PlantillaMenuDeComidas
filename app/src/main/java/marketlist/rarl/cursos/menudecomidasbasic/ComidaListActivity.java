@@ -1,4 +1,4 @@
-package com.alain.cursos.menudecomidasbasic;
+package marketlist.rarl.cursos.menudecomidasbasic;
 
 import android.content.Context;
 import android.content.Intent;
@@ -26,7 +26,9 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.alain.cursos.menudecomidasbasic.dummy.DummyContent;
+import com.alain.cursos.menudecomidasbasic.R;
+
+import marketlist.rarl.cursos.menudecomidasbasic.dummy.DummyContent;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;

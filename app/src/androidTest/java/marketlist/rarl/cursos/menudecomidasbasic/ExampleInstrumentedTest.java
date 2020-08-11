@@ -1,4 +1,4 @@
-package com.alain.cursos.menudecomidasbasic;
+package marketlist.rarl.cursos.menudecomidasbasic;
 
 import android.content.Context;
 import androidx.test.platform.app.InstrumentationRegistry;

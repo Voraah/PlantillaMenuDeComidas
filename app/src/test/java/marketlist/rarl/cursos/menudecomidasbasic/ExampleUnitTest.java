@@ -1,4 +1,4 @@
-package com.alain.cursos.menudecomidasbasic;
+package marketlist.rarl.cursos.menudecomidasbasic;
 
 import org.junit.Test;
 

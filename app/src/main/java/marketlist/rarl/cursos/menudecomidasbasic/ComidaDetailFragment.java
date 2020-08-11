@@ -1,6 +1,8 @@
-package com.alain.cursos.menudecomidasbasic;
+package marketlist.rarl.cursos.menudecomidasbasic;
 
 import android.app.Activity;
+
+import com.alain.cursos.menudecomidasbasic.R;
 import com.google.android.material.appbar.CollapsingToolbarLayout;
 import android.os.Bundle;
 import androidx.fragment.app.Fragment;
@@ -9,7 +11,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.alain.cursos.menudecomidasbasic.dummy.DummyContent;
+import marketlist.rarl.cursos.menudecomidasbasic.dummy.DummyContent;
 
 /* *
  * Firebase for Android
