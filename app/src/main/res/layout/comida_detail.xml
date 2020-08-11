@@ -6,4 +6,4 @@
     android:layout_height="match_parent"
     android:padding="16dp"
     android:textIsSelectable="true"
-    tools:context="com.alain.cursos.menudecomidasbasic.marketlist.alain.cursos.menudecomidasbasic.ComidaDetailFragment" />
+    tools:context="marketlist.rarl.cursos.menudecomidasbasic.ComidaDetailFragment" />
